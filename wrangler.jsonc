@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "mes",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "openapi-template-db",
+			"database_id": "af194800-4c37-42d2-a5d8-8ea2490ea5ce"
+		}
+	]
+}
